@@ -1,0 +1,19 @@
+{
+  "name": "silence",
+  "version": "0.0.1",
+  "description": "I Prefer Silence",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newdaveespionage/silence.git"
+  },
+  "author": "David Cox-Espenlaub",
+  "license": "Artistic License 2.0",
+  "bugs": {
+    "url": "https://github.com/newdaveespionage/silence/issues"
+  },
+  "homepage": "https://github.com/newdaveespionage/silence"
+}
